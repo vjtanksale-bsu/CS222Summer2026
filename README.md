@@ -1,1 +1,1 @@
-# CS222Summer2026
+# CS222 Summer 2026
